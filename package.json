@@ -3,7 +3,7 @@
 	"displayName": "md2urdu",
 	"publisher": "vivek",
 	"description": "converts any text in .md file to urdu",
-	"version": "1.1.0",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.37.0"
 	},
